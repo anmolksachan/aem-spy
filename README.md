@@ -28,7 +28,7 @@ A command-line tool for checking a list of URLs for possible Adobe Experience Ma
 
 -   [@FR13ND0x7F](https://twitter.com/fr13nd0x7f/)
 
-## Blogs
+## Blogs/ AEM Exploit POCs
 - [Reflected XSS at Philips.com](https://medium.com/@jonathanbouman/reflected-xss-at-philips-com-e48bf8f9cd3c)
 
 ## License
