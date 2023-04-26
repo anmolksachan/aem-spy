@@ -30,4 +30,4 @@ A command-line tool for checking a list of URLs for possible Adobe Experience Ma
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](#) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/anmolksachan/aem-spy/main/LICENSE) file for details.
