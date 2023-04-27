@@ -22,7 +22,7 @@ A command-line tool for checking a list of URLs for possible Adobe Experience Ma
 
 ## Sample Run
 
-<img width="670" alt="image" src="https://user-images.githubusercontent.com/60771253/234667455-3b88a2b8-5c28-4bba-8283-9aabcff77706.png">
+To_Be_Updated
 
 ## Author
 
