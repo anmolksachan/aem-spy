@@ -14,6 +14,8 @@ def check_aem(url):
         response = requests.get(url)
         if "adobedtm" in response.text:
             print(f"[+] Possible AEM detected for {url}")
+        else:
+             print(f"[-] Checking {url}")
     except:
         print(f"Error checking {url}")
 
