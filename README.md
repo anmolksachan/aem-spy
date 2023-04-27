@@ -29,7 +29,10 @@ A command-line tool for checking a list of URLs for possible Adobe Experience Ma
 -   [@FR13ND0x7F](https://twitter.com/fr13nd0x7f/)
 
 ## Blogs/ AEM Exploit POCs
-- [AEM-Hacker](https://github.com/0ang3el/aem-hacker)
+- [Hunting for security bugs in AEM webapps](https://speakerdeck.com/0ang3el/hunting-for-security-bugs-in-aem-webapps)
+- [Mikhail Egorov - Hunting for bugs in Adobe Experience Manager webapps](https://www.youtube.com/watch?v=BFQ9qQSBH6Y)
+- [Tool - AEM-Hacker](https://github.com/0ang3el/aem-hacker)
+- [Youtube - AEMSecurity](https://www.youtube.com/@AEMSecurity)
 - [Reflected XSS at Philips.com](https://medium.com/@jonathanbouman/reflected-xss-at-philips-com-e48bf8f9cd3c)
 - [How I found my first AEM related bug.](https://infosecwriteups.com/how-i-found-my-first-aem-related-bug-5ea901aad3f4)
 - [accounts.informatica.com - RCE due to exposed Groovy console](https://hackerone.com/reports/672243)
