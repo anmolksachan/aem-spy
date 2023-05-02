@@ -31,7 +31,7 @@ To_Be_Updated
 ## Blogs/ AEM Exploit POCs
 - [Hunting for security bugs in AEM webapps](https://speakerdeck.com/0ang3el/hunting-for-security-bugs-in-aem-webapps)
 - [Mikhail Egorov - Hunting for bugs in Adobe Experience Manager webapps](https://www.youtube.com/watch?v=BFQ9qQSBH6Y)
-- [Tool - AEM-Hacker](https://github.com/0ang3el/aem-hacker)
+- [Tool - AEM-Hacker - Recommended Tool ](https://github.com/0ang3el/aem-hacker)
 - [Youtube - AEMSecurity](https://www.youtube.com/@AEMSecurity)
 - [Reflected XSS at Philips.com](https://medium.com/@jonathanbouman/reflected-xss-at-philips-com-e48bf8f9cd3c)
 - [How I found my first AEM related bug.](https://infosecwriteups.com/how-i-found-my-first-aem-related-bug-5ea901aad3f4)
@@ -40,6 +40,9 @@ To_Be_Updated
 - [The CVE That Will Never Die!](https://clarkvoss.medium.com/the-cve-that-will-never-die-86149b450840)
 - [How to get RCE on AEM instance without Java knowledge](https://medium.com/@byq/how-to-get-rce-on-aem-instance-without-java-knowledge-a995ceab0a83)
 - [AEM Hacking](https://aemcorner.com/aem-hacking/)
+- [Adobe Experience Manager Security Issues](https://medium.com/@vsr061/adobe-experience-manager-security-issues-9b5bd24e0eb0)
+- [Adobe Experience Manager Exploitation](https://medium.com/@SecTech/adobe-experience-manager-exploitation-24bd9eb75ed9)
+- [Quikc wins with Adobe Experience Manager](https://www.pentestpartners.com/security-blog/quick-wins-with-adobe-experience-manager/)
 
 ## License
 
