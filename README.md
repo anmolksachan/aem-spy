@@ -23,7 +23,7 @@ A command-line tool for checking a list of URLs for possible Adobe Experience Ma
 
 ## Sample Run
 
-To_Be_Updated
+<img width="670" alt="AEM_SAMPLE_RUN" src="https://user-images.githubusercontent.com/60771253/236384884-180a1207-1296-4dba-adc3-ad7aa21f58c7.png">
 
 ## Author
 
