@@ -1,6 +1,7 @@
 # AEM SPY
 
 A command-line tool for checking a list of URLs for possible Adobe Experience Manager (AEM) detection.
+- This tool does basic check and i highly recommend to use [Tool - AEM-Hacker - Recommended Tool ](https://github.com/0ang3el/aem-hacker)
 
 ## Usage
 
