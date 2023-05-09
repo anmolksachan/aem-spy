@@ -45,6 +45,7 @@ A command-line tool for checking a list of URLs for possible Adobe Experience Ma
 - [Adobe Experience Manager Exploitation](https://medium.com/@SecTech/adobe-experience-manager-exploitation-24bd9eb75ed9)
 - [Quikc wins with Adobe Experience Manager](https://www.pentestpartners.com/security-blog/quick-wins-with-adobe-experience-manager/)
 - [AEM POST Servlet](https://medium.com/@toimrank/aem-post-servlet-e0b07ecc63ac)
+- [AEM /etc/groovyconsole.html RCE](https://twitter.com/XHackerx007/status/1435139576314671105)
 
 ## License
 
